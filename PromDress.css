@@ -1,0 +1,30 @@
+/*
+* Programmer Name
+* Date
+* Description of Project
+*/
+
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Put body attributes here */
+
+body { 
+    width: 80%;
+    margin:auto;
+    background-color: darkgray;
+    font-family: Arial;
+}
+
+h1{background-color: darkgray; /*color for background */
+color: pink; /* color of text */}
+
+#redtext{ color:red;}
+
+/*green is not working*/
+
+.greenText { color:green;}/* use a class to change text to green in different kinds of elements */
